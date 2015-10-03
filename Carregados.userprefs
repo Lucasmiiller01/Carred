@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Main\Scripts\Friends.cs">
+    <Files>
+      <File FileName="Assets\Main\Scripts\CutsceneBehaviour.cs" Line="46" Column="12" />
+      <File FileName="Assets\Main\Scripts\PlayerMovement.cs" Line="125" Column="4" />
+      <File FileName="Assets\Main\Scripts\Friends.cs" Line="15" Column="44" />
+      <File FileName="Assets\Main\Scripts\Pause.cs" Line="46" Column="5" />
+      <File FileName="Assets\Main\Scripts\Menu.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
